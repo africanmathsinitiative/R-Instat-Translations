@@ -1,7 +1,7 @@
 # How to contribute to translations
 
 1. Download the .xlf from this repository for the language you want to translate.
-2. Download and install the Multilingual App Toolkit from here https://developer.microsoft.com/en-us/windows/develop/multilingual-app-toolkit
+2. Download and install the Multilingual App Toolkit from here https://developer.microsoft.com/en-us/windows/develop/multilingual-app-toolkit. Choose the version of the software you want to work in (not the language you are translating), so likely English.
 3. Open the xlf file with the Multilingual App Toolkit
 4. In the bottom left corner click "Strings" to see all the translation items.
 5. The file contains many items that should not be translated e.g. locations so you will need to filter to only show items that should be translated. To do this click the "Filter" tab on the menu bar. Enter ".Text" and uncheck "Source" and "Translation" and click "Apply". You will now see only resources where the ID column contains ".Text" i.e. items that should be translated. **It is important that you only change items which have a ".Text" ID value.**
