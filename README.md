@@ -1,6 +1,4 @@
-# Translation files for R-Instat
-
-## How to contribute to translations
+# How to contribute to translations
 
 1. Download the .xlf from this repository for the language you want to translate.
 2. Download and install the Multilingual App Toolkit from here https://developer.microsoft.com/en-us/windows/develop/multilingual-app-toolkit
